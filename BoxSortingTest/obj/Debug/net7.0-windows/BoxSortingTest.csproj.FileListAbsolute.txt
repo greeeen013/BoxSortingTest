@@ -1,0 +1,17 @@
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\bin\Debug\net7.0-windows\BoxSortingTest.exe
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\bin\Debug\net7.0-windows\BoxSortingTest.deps.json
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\bin\Debug\net7.0-windows\BoxSortingTest.runtimeconfig.json
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\bin\Debug\net7.0-windows\BoxSortingTest.dll
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\bin\Debug\net7.0-windows\BoxSortingTest.pdb
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.csproj.AssemblyReference.cache
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.Form1.resources
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.csproj.GenerateResource.cache
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.AssemblyInfoInputs.cache
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.AssemblyInfo.cs
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.csproj.CoreCompileInputs.cache
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.dll
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\refint\BoxSortingTest.dll
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.pdb
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\BoxSortingTest.genruntimeconfig.cache
+D:\programování\projekty\BoxSortingTest\BoxSortingTest\obj\Debug\net7.0-windows\ref\BoxSortingTest.dll
